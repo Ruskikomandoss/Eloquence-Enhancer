@@ -17,4 +17,5 @@ Very straightforward to use: you'll be asked to input a phrase - as mentioned, c
 Have fun!
 
 # Requirements:
-- Just your copy of OpenAI API key
+- Just your copy of OpenAI API key, preferably set as a environmental variable, but hey, as you like it
+- run _pip install langchain_ and _pip install openai_ in the terminal or use the requirements.txt
