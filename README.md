@@ -12,6 +12,8 @@ Eloquence Enhancer is here to save your day. Or, as it would state it, to avert 
 ABOUT EE:
 A simple Python app using langchain and OpenAI's API, terminal-based. Returns correct input whether inputted a word, phrase or even longer piece of text. Never tested its capabilities in terms of input length, so I can't tell where the limit is.
 
+Very straightforward to use: you'll be asked to input a phrase - as mentioned, can be even number of sentences - and language you want EE to present you output in. The interface language is unchangeably English.
+
 Have fun!
 
 # Requirements:
