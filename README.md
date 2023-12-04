@@ -1,4 +1,4 @@
-# Eloquence-Enhancer
+# Eloquence Enhancer
 Perpetuately upholded pinnacle of uncompromised formality.
 
 _Have you ever felt your piece of text, essay, article, e-mail, just does not have enought weight because it lacks some truly formal phrases? Have you ever felt that a better way of phrasing something is just on the tip of your tongue, but you can't quite recollect it? Have you ever wanted to not just say, but state something that will resonate with your audience?_
@@ -9,8 +9,8 @@ _Have you ever perceived a deficiency in gravitas within your written work—be 
 
 Eloquence Enhancer is here to save your day. Or, as it would state it, to avert a critical situation.
 
-ABOUT EE:
-A simple Python app using langchain and OpenAI's API, terminal-based. Returns correct input whether inputted a word, phrase or even longer piece of text. Never tested its capabilities in terms of input length, so I can't tell where the limit is.
+# About EE:
+A simple Python app using langchain and OpenAI's API, terminal-based. Returns correct input whether inputted a word, phrase or even longer piece of text. Never tested its capabilities in terms of input length, so I can't tell where the limit is. Should work for every output language, but I won't guarantee you that.
 
 Very straightforward to use: you'll be asked to input a phrase - as mentioned, can be even number of sentences - and language you want EE to present you output in. The interface language is unchangeably English.
 
